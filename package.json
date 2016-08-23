@@ -1,0 +1,13 @@
+{
+  "name": "node-api",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.9",
+    "node-restful": "^0.2.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.10.0"
+  }
+}
